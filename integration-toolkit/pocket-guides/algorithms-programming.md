@@ -1,10 +1,11 @@
 ---
 title: Algorithms & Programming Pocket Guide
 subjects: Computer Science, Algorithms & Programming
+_tags: algorithms & programming
 links:
     drive: https://drive.google.com/file/d/16JXdu3Oth_m6FzmxZiqI-4L-Fp7B3FWZ/view?usp=drive_link
     pdf: https://drive.google.com/file/d/16JXdu3Oth_m6FzmxZiqI-4L-Fp7B3FWZ/view?usp=drive_link
-_tags: algorithms & programming
+standards: K-12.CS.AP
 ---
 
 ## Overview

@@ -4,6 +4,7 @@ subjects: Computer Science, Impacts of Computing
 links:
     drive: https://drive.google.com/file/d/13Ffwr89uOb0HQ2EPWtwhlYmqQJdNMApb/view?usp=drive_link
     pdf: https://drive.google.com/file/d/13Ffwr89uOb0HQ2EPWtwhlYmqQJdNMApb/view?usp=drive_link
+standards: K-12.CS.IC
 ---
 
 ## Overview

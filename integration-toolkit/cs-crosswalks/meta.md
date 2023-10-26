@@ -5,9 +5,6 @@ subjects: Computer Science, English, Mathematics, Science, Visual Art, Music, Ph
 tags: integration, crosswalk, computer science
 types: Curricular Resource
 audiences: Classroom Teachers, Administrators, Curriculum Writers
-contents:
-    - ./grade-crosswalks
-    - ./subject-crosswalks
 ---
 
 ## Overview

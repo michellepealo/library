@@ -8,7 +8,7 @@ tags: computer science, integration, k-8, strands, pocket guide
 links:
     drive: https://drive.google.com/drive/u/0/folders/1xM9merQyJEKALJaIKpczHdo33Nj48nPR
     pdf: https://drive.google.com/file/d/1yqnz-cQiP5xyJI6nivo6Te9tgmgsCEx4/view?usp=drive_link
-    goopen: TODO:
+    goopen: https://goopenva.org/courseware/lesson/6177/overview
 contents:
     - ./algorithms-programming.md
     - ./computing-systems.md

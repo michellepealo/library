@@ -1,12 +1,16 @@
 ---
-title: Computer Science Integration Toolkit
-links:
-    drive:
-    pdf:
-subjects: Computer Science
+title: CS Integration Toolkit
 grades: K-12
-tags: computer science, integration, curriculum planning
+subjects: Computer Science, English, Mathematics, Science, Visual Art, Music, Physical Education, Health, Social Studies
+tags: integration, crosswalk, computer science
+types: Curricular Resource
+audiences: Classroom Teachers, Administrators, Curriculum Writers
+links:
+    drive: https://drive.google.com/drive/folders/1THJdRsCcKrjXdBBL2sZkx5GG1FuNfnD7
 contents:
     - ./pocket-guides
-    - ./vertical-articulation-charts
 ---
+
+## Overview
+
+Click the buttons above to view the materials on Google Drive. Click the links below to browse the crosswalks by grade level or by integrated subject area, like CS+music or CS+science. 
