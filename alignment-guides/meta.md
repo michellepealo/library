@@ -8,6 +8,7 @@ grades: K-8
 contents:
     - ./0-5.md
     - ./6-8.md
+    - ./grade-0.md
     - ./grade-1.md
     - ./grade-2.md
     - ./grade-3.md
