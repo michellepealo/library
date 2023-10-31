@@ -78,7 +78,8 @@ Because the `meta.md` Element is a group, its members are listed on its page on 
 
 ...and its members have a link back to its page in their header:
 
-TODO:
+![image](https://github.com/CodeVA-Curriculum/library/assets/25778579/f1951b10-d00d-4994-b612-9509e0e69ddd)
+
 
 ### Aggregator Fields
 
