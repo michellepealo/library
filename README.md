@@ -4,7 +4,111 @@ This repository is the CodeVA Curriculum Library, containing metadata about all 
 
 ## Library Structure
 
+Here is an example of an Element with frontmatter:
+
+```markdown
+---
+title: Data Science with Python
+authors: Sara Fergus, Christa VanOlst, Jon Stapleton
+subjects: Computer Science, Data & Analysis, Mathematics, Probability & Statistics
+types: Lesson Plan, Unit of Study
+_tags: python
+links:
+    drive: https://drive.google.com/drive/folders/14fex6O2nwfpnTowDUR-sgBs1WcqNsW6d
+    pdf: https://drive.google.com/file/d/18JQIjVfhPzSO-jM9ST1wCE9fHypYpk0x/view?usp=drive_link
+---
+
+## Overview
+
+This lesson sequence offers students and teachers a way to develop data science skills using the Python programming language through a mix of “plugged” and “unplugged” activities. View the materials on Google Drive or PDF by clicking the buttons above.
+
+This material was created by Sara Fergus, Christa VanOlst, & Jon Stapleton for CodeVA with support from Capital One.
+```
+
+Elements can have the following metadata fields defined in frontmatter:
+
+| Name | Type | Description | Required? | Inheritable? | Example |
+| ---- | ---- | ----------- | --------- | ----------- | ------- |
+| `title` | string | The name of the resource to be displayed prominently in its `ElementView` and `ElementCard` | ✅ | ❌ | `title: Data Science Project-Based Learning` |
+| `links` | object | Links to the resource. Keys must be one of `goopen`, `pdf`, and/or `drive` (a required key). | ✅ | ❌ | See `data-science/python.md` |
+| `authors` | comma-separated list | A list of the authors of the Element | ✅ | ✅ (default: CodeVA Curriculum) | `authors: Valerie Fawley, Jess Newsome` |
+| `grades` | comma-separated list | A list of the grade levels associated with the Element. Use dash notation (.e.g, `3-5`) to denote a range of grade levels. | optional (default: K-12) | ✅ | `grades: K-2, 5, 7-12` |
+| `subjects` | comma-separated list | A list of subjects and strands associated with the Element | optional (default: "Computer Science) | ✅ | `subjects: Mathematics, Computer Science, Algorithms & Programming` |
+| `types` | comma-separated list | A list of the resource type categories the Element fits within | optional (default "Curricular Resource, Unit of Study, Lesson Plan") | ✅ | `types: Lesson Plan` |
+| `standards` | comma-separated list | A list of the standards associated with the element | optional | ✅ | `standards: K.CS.AP.1, K.MT, K.CS.IC` |
+| `tags` | comma-separated list | A list of tags associated with the element | optional | ✅ | `tags: computer science, integration, STEM` |
+| `contents` | array | An array of strings pointing to Elements to be included on the Element page as members | optional | ✅ | See `data-science/meta.md` |
+
+### Parents, Children, Groups, & Members
+
+Elements have relationships to other Elements in the library--they can be "parents", "children", "groups", and "members". None of these categories are mutually exclusive--a single given Element can play all four of these roles.
+
+- **Parent:** A "parent" element is expressed as a `meta.md` file, defining the metadata for a folder in the library. Each directory may only have one `meta.md` file
+- **Child:** All Elements in the library are children of the `meta.md` beside it, or the `meta.md` file in its parent directory.
+- **Group:** An Element that defines a `contents` field is a group, and the members listed there will be displayed on its page on the website
+- **Member:** An Element that appears in the `contents` field of a group Element is a member of that group. Members do not inherit attributes from groups, but their groups will be displayed on their page on the website.
+
+For example, given the library structure below:
+
+```
+.meta.md
+data-science
+    | codap.md
+    | meta.md
+    | python.md
+    | unplugged.md
+```
+
+Each `.md` file is an Element. The Elements `codap.md`, `python.md`, and `unplugged.md` inherit attributes from `meta.md`, their parent Element. The `meta.md` Element likewise inherits attributes from its parent Element, `.meta.md`.
+
+The `meta.md` Element is also a group, listing the following Elements in its `contents` field:
+
+```
+title: Data Science Project-Based Learning
+contents:
+    - ./unplugged.md
+    - ./codap.md
+    - ./python.md
+```
+
+Because the `meta.md` Element is a group, its members are listed on its page on the website:
+
+TODO:
+
+...and its members have a link back to its page in their header:
+
+TODO:
+
+### Aggregator Fields
+
+If you want an Element to inherit an attribute from its parent and add additional items to the field, you can define an "aggregator field". Aggregator fields start with a `_` character. For example, the parent Element `meta.md` might define the following information in its metadata:
+
+```
+title: Data Science Project-Based Learning
+authors: Sara Fergus, Christa VanOlst, Jon Stapleton
+tags: data & analysis, data science
+```
+
+Its child Element, `python.md`, might define the following metadata:
+
+```
+title: Data Science with Python
+_tags: python
+```
+
+Because `authors` is an inheritable field and `python.md` does not define its own `authors` field, `python.md` will inherit `Sara Fergus, Christ VanOlst, Jon Stapleton` as its `authors` value. Additionally, because `python.md` does not define its own `tags` field, it will inherit the tags from its parent. However, `python.md` *does* define a `_tags` aggregator field, meaning it will append "python" to the list of `tags` it inherited from its parent Element. 
+
+
 ## Contributing to the Library
+
+To contribute to the library, follow the steps below:
+
+1. Create a new branch with a descriptive name based on the content you plan to add (e.g., `alignment-guides`).
+2. Add the `.md` files and folders to the repository from your branch.
+3. Optional: run the `audit.js` program to make sure your contributions follow the correct formatting conventions
+4. After you have finished making your contributions, make a pull request to trigger review. Once your branch is merged into the main branch, your contributions will be deployed to the main site.
+
+### Errors & Requirements
 
 If the auditor script finds errors in the library, it will throw an error:
 
@@ -14,7 +118,7 @@ Error: Found problems in the library. See errors.log for details
 
 The auditor will create a file (`errors.log`) with information about the problems that must be corrected in order to upload the new library version to the Curriculum Library website.
 
-### Markdown Details
+<!-- TODO: implement ### Markdown Details
 
 The library supports several "directives", special Markdown elements that allow contributors to add additional detail or important styled features to Element pages.
 
@@ -34,9 +138,9 @@ If the directive does not define a number, the auditor script will throw an erro
 
 ```
 Error: File {filename} uses the ::nsf directive, but does not define a number!
-```
+``` -->
 
-### Field Details
+### Field Details (Work in Progress)
 
 Below, you'll find special-case information for each of the Element frontmatter fields.
 
