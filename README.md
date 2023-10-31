@@ -73,7 +73,8 @@ contents:
 
 Because the `meta.md` Element is a group, its members are listed on its page on the website:
 
-TODO:
+![image](https://github.com/CodeVA-Curriculum/library/assets/25778579/54baa9f9-b3c3-4638-ad4a-116eaa4d92ef)
+
 
 ...and its members have a link back to its page in their header:
 
