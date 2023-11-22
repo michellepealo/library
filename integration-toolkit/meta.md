@@ -9,6 +9,7 @@ links:
     drive: https://drive.google.com/drive/folders/1THJdRsCcKrjXdBBL2sZkx5GG1FuNfnD7
 contents:
     - ./pocket-guides
+    - ./vertical-articulation
 ---
 
 ## Overview

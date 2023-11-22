@@ -9,4 +9,4 @@ standards: K-12.CS.NI
 
 ## Overview
 
-This Pocket Guide is a quick summary of the *Networks & the Internet* computer science strand for grades K-8. The pocket guide explains what the strand is about and how it increases in complexity from Kindergarten to 8th grade. Click the buttons above to view all of the strands in one document, or view all of the Pocket Guides by [clicking here](/library/browse/pocket-guides).
+This Pocket Guide is a quick summary of the *Networks & the Internet* computer science strand for grades K-8. The pocket guide explains what the strand is about and how it increases in complexity from Kindergarten to 8th grade. Click the buttons above to view all of the strands in one document, or view all of the Pocket Guides by [clicking here](/library/browse/integration-toolkit/pocket-guides).

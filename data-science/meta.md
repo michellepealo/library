@@ -2,7 +2,8 @@
 title: Data Science Project-Based Learning
 authors: Sara Barbolish, Christa VanOlst, Jon Stapleton
 types: Unit of Study
-subjects: Computer Science, Algorithms & Programming, Data & Analysis, Mathematics, Probability & Statistics
+subjects: Computer Science, Data Science
+standards: HS.CSF.NI, HS.DS
 grades: 9-12
 contents:
     - ./unplugged.md

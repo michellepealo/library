@@ -9,6 +9,13 @@ subjects: Computer Science
 contents:
     - ./0-3.md
     - ./2-5.md
+    - ./6-8.md
+    - ./algo.md
+    - ./systems.md
+    - ./cyber.md
+    - ./data.md
+    - ./impacts.md
+    - ./networks.md
 ---
 
 ## Overview
