@@ -2,6 +2,7 @@
 title: Data Science with Python
 types: Lesson Plan
 _tags: python
+standards: HS.DS, HS.CSF
 links:
     drive: https://drive.google.com/drive/folders/14fex6O2nwfpnTowDUR-sgBs1WcqNsW6d
     goopen: https://goopenva.org/courseware/lesson/6185/overview

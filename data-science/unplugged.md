@@ -1,6 +1,7 @@
 ---
 title: Data Science Unplugged
 types: Lesson Plan
+standards: HS.DS
 links:
     drive: https://drive.google.com/drive/folders/1bAZUOxTavithI7DNFOh3htUGaIDWJ5kv
     pdf: https://drive.google.com/file/d/14yMlyvKoNGkHOTasYSsPke16jzCrkf2T/view?usp=drive_link
