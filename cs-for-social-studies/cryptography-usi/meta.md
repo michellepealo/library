@@ -1,6 +1,6 @@
 ---
 title: Cryptography US History I Lesson Set
-authors: Katharine Dickman, Thea Clark, Lola Lloyd, Valerie Fawley
+authors: Thea Clark, Lola Lloyd, Valerie Fawley
 subjects: Computer Science, History & Social Science
 types: Lesson Plan, Unit of Study
 audiences: Classroom Teachers
