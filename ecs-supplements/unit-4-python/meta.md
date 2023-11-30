@@ -14,6 +14,10 @@ links:
 contents:
     - ./1-io-variables-unplugged.md
     - ./2-io-arithmetic.md
+    - ./3-io-variables-project.md
+    - ./5-conditions-random.md
+    - ./6-loops-logic.md
+    - ./7-conditionals-project.md
 ---
 
 ## Overview
