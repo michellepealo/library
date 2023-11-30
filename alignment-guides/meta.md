@@ -4,10 +4,11 @@ authors: CodeVA Curriculum
 types: Curricular Resource
 audiences: Curriculum Writers, Administrators, Classroom Teachers
 grades: K-8
-# standards: 4.VS.VP.1
+standards: K-8.CS
 contents:
     - ./0-5.md
     - ./6-8.md
+    - ./hard-history
     - ./grade-0.md
     - ./grade-1.md
     - ./grade-2.md

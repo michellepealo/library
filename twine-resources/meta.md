@@ -1,11 +1,13 @@
 ---
 title: Twine Resources by CodeVA
+image: twine.svg
 grades: 4-12
 types: Unit of Study, Lesson Plan, Curricular Resource, Tutorials
 tags: coding, storytelling, writing, computer science, twine
 contents:
     - ./twine-trail-guide.md
     - ./twine-chapbook-tip-sheet.md
+    - ./flipbook.md
     - ./twine-publish-directions.md
     - cs-for-social-studies
 ---

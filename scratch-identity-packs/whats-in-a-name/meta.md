@@ -3,6 +3,7 @@ title: What's In a Name?
 authors: Jasper Gunn, Michelle Pealo, Amber Rauls-Drayer, Matthew Reirson, Jon Stapleton
 grades: 3-5
 subjects: Computer Science, English
+image: name_jar_stamp.png
 types: Unit of Study
 links:
     drive: https://docs.google.com/document/d/1Ka5czon_fe5O1LaPiHnPegaTSomaMRF4QtUnMkeN-C4/edit?usp=drive_link

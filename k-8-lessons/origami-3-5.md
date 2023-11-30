@@ -5,6 +5,7 @@ grades: 3-5
 subjects: Computer Science
 standards: 3.CS.AP.1, 4.CS.AP.1, 5.CS.AP.1
 types: Lesson Plan
+image: origami.jpg
 _tags: STEAM, crafts
 links:
     drive: https://docs.google.com/document/d/15PhI5m0KkEJ86bObxURFUw7T5XecnfpZAqwm7EKP67o/edit?usp=drive_link

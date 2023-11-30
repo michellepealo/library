@@ -3,7 +3,7 @@ title: Exploring Identity with Scratch
 authors: Jasper Gunn, Michelle Pealo, Amber Rauls-Drayer, Jon Stapleton
 grades: 3-5
 subjects: Computer Science, English
-types: Curricular Resource
+types: Curricular Resource, Unit of Study
 tags: scratch, integration, ela, writing, coding, literature
 links:
    drive: https://drive.google.com/drive/u/0/folders/1jc_n7wqbXYj0_MmTP7KJK2E9oZqxp1EE
@@ -11,6 +11,7 @@ contents:
     - ./whats-in-a-name
     - ./land-of-all
     - ./many-colors-of-us
+image: scratch-identity.jpg
 ---
 
 ## Overview
