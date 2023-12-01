@@ -2,12 +2,19 @@
 title: The Many Colors of Us
 authors: Amber Rauls-Drayer, Michelle Pealo, Jasper Gunn, Jon Stapleton
 types: Unit of Study, Lesson Plan
-grades: 4-5
+subjects: Computer Science, English, Visual Art, Social-Emotional Learning
+# standards: 4.EN.RD.4, 4.EN.RD.5, 5.EN.RD.4, 5.EN.RD.5, 4.SEL.SOA.1, 4.SEL.SOA.2, 5.SEL.SOA.1, 5.SEL.SOA.2, 4.CS.AP.3, 5.CS.AP.3, 4.CS.AP.4, 5.CS.AP.4, 4.CS.DA.14, 5.CS.DA.13, 4.VA.TA.12, 5.VA.TA.12, 4.EN.RD.6, 5.EN.RD.6, 4.VS.PG.1, 3.EN.OL.1, 4.EN.COM.1, 5.EN.COM.1, 4.SEL.SEA.1, 5.SEL.SEA.1, 4.VA.CP.1, 3.VA.CP.1, 3.VA.IA.10, 4.VA.IA.10, 5.VA.IA.10
+standards: 4.EN.RD.4, 4.EN.RD.5, 5.EN.RD.4, 5.EN.RD.5, 4.SEL.SOA.1, 4.SEL.SOA.2, 5.SEL.SOA.1, 5.SEL.SOA.2, 4.CS.AP.3, 5.CS.AP.3, 4.CS.AP.4, 5.CS.AP.4, 4.CS.DA.14, 5.CS.DA.13, 4.VA.TA.12, 5.VA.TA.12, 4.EN.RD.6, 5.EN.RD.6, 4.VS.PG.1, 3.EN.OL.1, 4.EN.COM.1, 5.EN.COM.1, 4.SEL.SEA.1, 5.SEL.SEA.1, 4.VA.CP.1, 3.VA.CP.1, 3.VA.IA.10, 4.VA.IA.10, 5.VA.IA.10
+grades: 3-5
 image: many-colors.jpg
 links:
-    drive: https://drive.google.com/drive/u/0/folders/1IJoUN2NJIdcBK2z3eSvFwiV1nIX0pxC1
+    drive: https://docs.google.com/document/d/1iAJKc6aMFo3qIMPnRUHyCtMRKid4gqi05ZzZprEPf8g/edit
 contents:
     - ./1-the-skin-im-in.md
+    - ./2-how-we-describe-colors.md
+    - ./3-all-the-colors-we-are.md
+    - ./4-emoji-project.md
+    - ./5-poetry-project.md
 ---
 
 ## Summary
