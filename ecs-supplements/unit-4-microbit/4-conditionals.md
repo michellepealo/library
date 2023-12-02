@@ -10,7 +10,7 @@ links:
 
 ## Summary
 
-In this lesson, students will learn how to write conditional control structures (e..g, “if” statements) to have a Micro:Bit make automated decisions based on sensor input. At the end of the lesson, students will use these skills to build a “lockbox” puzzle for their peers to solve.
+In this lesson, students will learn how to write conditional control structures (e..g, “if” statements) to have a Micro\:Bit make automated decisions based on sensor input. At the end of the lesson, students will use these skills to build a “lockbox” puzzle for their peers to solve.
 
 > Note: This lesson is adapted from the Conditionals lesson in Microsoft’s CS Intro curriculum (with permission). You can [view the CS Intro curriculum here](https://makecode.microbit.org/courses/csintro/conditionals).
 

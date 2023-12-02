@@ -10,7 +10,7 @@ links:
 
 ## Summary
 
-In this lesson, students will learn how to make interactive programs using input event blocks, the MakeCode development tool, and the Micro:Bit microcontroller. Students will work collaboratively to explore different methods of providing input to the Micro:Bit, and will create a “fidget cube” puzzle box prototype which will serve as a starting point for their “lockbox” puzzles (see [Conditionals with Micro:Bit](/library/browse/ecs-supplements/unit-4-microbit/4-conditionals) for the “lockbox” project description).
+In this lesson, students will learn how to make interactive programs using input event blocks, the MakeCode development tool, and the Micro\:Bit microcontroller. Students will work collaboratively to explore different methods of providing input to the Micro\:Bit, and will create a “fidget cube” puzzle box prototype which will serve as a starting point for their “lockbox” puzzles (see [Conditionals with Micro\:Bit](/library/browse/ecs-supplements/unit-4-microbit/4-conditionals) for the “lockbox” project description).
 
 > Note: The “Fidget Cube” Lockbox Puzzle Prototype project is adapted from the Algorithms lesson from Microsoft’s CS Intro curriculum (with permission). You can [view the CS Intro curriculum here](https://makecode.microbit.org/courses/csintro/algorithms).
 
@@ -18,5 +18,5 @@ In this lesson, students will learn how to make interactive programs using input
 
 *The students will be able to...*
 
-- Identify sensors on the Micro:Bit microcontroller used to trigger input events
-- Read, debug, trace, and write code using the MakeCode platform for the Micro:Bit using input event blocks to create interactive interfaces
+- Identify sensors on the Micro\:Bit microcontroller used to trigger input events
+- Read, debug, trace, and write code using the MakeCode platform for the Micro\:Bit using input event blocks to create interactive interfaces
