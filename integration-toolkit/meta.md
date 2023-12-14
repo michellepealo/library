@@ -8,6 +8,7 @@ audiences: Classroom Teachers, Administrators, Curriculum Writers
 links:
     drive: https://drive.google.com/drive/folders/1THJdRsCcKrjXdBBL2sZkx5GG1FuNfnD7
 contents:
+    - alignment-guides
     - ./pocket-guides
     - ./vertical-articulation
     - ./crosswalks
