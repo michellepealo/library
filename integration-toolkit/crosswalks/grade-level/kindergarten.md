@@ -6,4 +6,4 @@ links:
 ---
 
 ## Overview
-This document provides integration opportunities for the kindergarten grade CS SOLs across many disciplines, allowing for a thorough way to examine when and where to include CS Standards across the grade level content.
+This document provides integration opportunities for the kindergarten CS SOLs across many disciplines, allowing for a thorough way to examine when and where to include CS Standards across the grade level content.
