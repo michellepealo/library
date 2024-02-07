@@ -5,6 +5,9 @@ types: Lesson Plans
 grades: 4-8
 tags: tribal education, VTEC
 contents:
+  - ./fry-bread.md
+links:
+  drive: https://drive.google.com/drive/folders/1gBc8BCT4s1F7Pb6FTMLpka2NOa6UnX2D
 ---
 
 ## Overview
