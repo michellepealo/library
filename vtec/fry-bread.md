@@ -5,7 +5,7 @@ types: Lesson Plans
 audiences: Classroom Teachers
 grades: 4
 +tags: computer science, figurative language, flowchart, fry bread, indigenous, metaphor, native american, simile, virginia studies
-standards: 4.CS.AP.4
+standards: 4.CS.AP.4, 4.EN.COM.1, 4.EN.RD.4
 links:
   drive: https://docs.google.com/document/d/1otMDWHCDhw88RufJ5L39BFY7PkB7B2e-Ud_Z2K9Mt18/edit#heading=h.gjdgxs
   goopen: https://goopenva.org/courseware/lesson/5989/overview
