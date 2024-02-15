@@ -2,6 +2,7 @@
 title: K-5 Art + CS SOL Crosswalk
 _tags: visual art
 grades: K-5
+subjects: Computer Science, Visual Art
 standards: 
     - K-5.CS
     - K.VA.[1-2,3,12]
