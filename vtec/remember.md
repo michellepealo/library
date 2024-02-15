@@ -1,5 +1,5 @@
 ---
-title: Remember - Indigenous Perspective on Environmentalism
+title: "Remember - Indigenous Perspective on Environmentalism"
 subjects: Computer Science, English, History & Social Science
 types: Lesson Plans
 audiences: Classroom Teachers
