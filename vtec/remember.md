@@ -4,7 +4,7 @@ subjects: Computer Science, English, History & Social Science
 types: Lesson Plans
 audiences: Classroom Teachers
 grades: 8
-+tags: environmentalism, figurative language, human impact, indigenous, native American, programming, twine
+_tags: environmentalism, figurative language, human impact, indigenous, native American, programming, twine
 standards: 8.CS.AP.1, 8.EN.COM.1, 8.EN.RD.5, 8.EN.RE.9, 8.WG.ING.1, 8.WG.RE.2
 links:
   drive: https://docs.google.com/document/d/1eml3mB31ggemvxTG5-Hhk_KHULHMvdAivFCJ8PUv9mQ/edit?usp=drive_link

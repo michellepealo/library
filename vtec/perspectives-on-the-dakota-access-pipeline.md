@@ -5,7 +5,7 @@ subjects: Computer Science, History & Social Science
 types: Lesson Plans
 audiences: Classroom Teachers
 grades: 7
-+tags: arguments, dakota access pipeline, decision-making model, indigenous, national issues, native americans, primary sources, programming, twine
+_tags: arguments, dakota access pipeline, decision-making model, indigenous, national issues, native americans, primary sources, programming, twine
 standards: 7.CS.AP.1, 7.CS.AP.4, 7.CVE.SK.0
 links:
   drive: https://docs.google.com/document/d/1b8oOeQZW7FlQ9pt277-uIc5P6Wu3YpLkpY9OHRWmLcU/edit?usp=drive_link

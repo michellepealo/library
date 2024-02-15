@@ -5,7 +5,7 @@ subjects: Computer Science, History & Social Science
 types: Lesson Plans
 audiences: Classroom Teachers
 grades: 5
-+tags: computer science, indigenous, native americans, perspectives, treaty, virginia tribes
+_tags: computer science, indigenous, native americans, perspectives, treaty, virginia tribes
 standards: 5.CS.AP.1, 5.CS.DA.11, 5.USI.EA.2
 links:
   drive: https://drive.google.com/drive/folders/1BxklVOG7m7dz1U5M6oAycuggARdEw27k?usp=drive_link

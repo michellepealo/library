@@ -4,7 +4,7 @@ subjects: Computer Science, English, History & Social Science
 types: Lesson Plans
 audiences: Classroom Teachers
 grades: 5
-+tags: characteristics, computer science, debug, indigenous, native American, nonfiction, programming, twine, writing
+_tags: characteristics, computer science, debug, indigenous, native American, nonfiction, programming, twine, writing
 standards: 5.CS.AP.2, 5.EN.RD.5, 5.EN.WR.7, 5.USI.GA.1
 links:
   drive: https://docs.google.com/document/d/1L44JJR-hk88YW7IlMH_RZjbqQ19Emsum65qXRRzmb5E/edit#heading=h.gjdgxs

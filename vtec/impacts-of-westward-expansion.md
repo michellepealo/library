@@ -5,7 +5,7 @@ subjects: Computer Science, History & Social Science
 types: Lesson Plans
 audiences: Classroom Teachers
 grades: 6
-+tags: data visualization, indigenous, perspective, native americans, westward expansion
+_tags: data visualization, indigenous, perspective, native americans, westward expansion
 standards: 6.CS.DA.8, 6.CS.DA.9, 6.USII.WP.1
 links:
   drive: https://docs.google.com/document/d/1ReKvBawJPnKbQDt8IPlnB9-7jfSuo5_OHVfSeWn6h8c/edit

@@ -5,7 +5,7 @@ subjects: Computer Science, Life Sciences
 types: Lesson Plans
 audiences: Classroom Teachers
 grades: 7
-+tags: computer science, rappahannock, indigenous, native american, virginia studies
+_tags: computer science, rappahannock, indigenous, native american, virginia studies
 standards: 7.CS.IC.11, MS.SC.LS.11
 links:
   drive: https://docs.google.com/document/d/1BLr0wRE0rjwavvgXya2AUU6pdQ0bQDpEZsaETXnnh4E/edit?usp=drive_link

@@ -4,7 +4,7 @@ subjects: Computer Science, History & Social Science
 types: Lesson Plans
 audiences: Classroom Teachers
 grades: 7
-+tags: computer science, environmentalism, impacts of computing, indigenous, native American, technology, water conservation, water protection, watershed
+_tags: computer science, environmentalism, impacts of computing, indigenous, native American, technology, water conservation, water protection, watershed
 standards: 7.CS.IC.11, 7.EN.COM.1, 7.CVE.ACG.1, 7.CVE.ACG.3, 7.CVE.ACG.4, MS.SC.LS.11
 links:
   drive: https://docs.google.com/document/d/1xdzOsfu_jV7_6C1bzA_XXll1YyI73nsrMZDQbH_NM_Q/edit?usp=drive_link

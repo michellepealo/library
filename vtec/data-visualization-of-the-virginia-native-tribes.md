@@ -4,7 +4,7 @@ subjects: Computer Science, History & Social Science
 types: Lesson Plans
 audiences: Classroom Teachers
 grades: 4
-+tags: computer science, data visualization, native americans, virginia native tribes, virginia studies
+_tags: computer science, data visualization, native americans, virginia native tribes, virginia studies
 standards: 4.CS.DA.12, 4.VS.VP.2
 links:
   drive: https://docs.google.com/document/d/1nY1ACLedFU7EYzTxUvRJ5v_hDPlbfNcBBwNhFL-enr8/edit#heading=h.joty0v63l5oi
