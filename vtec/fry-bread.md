@@ -3,7 +3,7 @@ title: Fry Bread
 subjects: Computer Science, English, History & Social Science
 types: Lesson Plans
 audiences: Classroom Teachers
-grades: 4
+grades: "4"
 _tags: computer science, figurative language, flowchart, fry bread, indigenous, metaphor, native american, simile, virginia studies
 standards: 4.CS.AP.4, 4.EN.COM.1, 4.EN.RD.4
 links:

@@ -3,7 +3,7 @@ title: Data Visualization of the Virginia Native tribes
 subjects: Computer Science, History & Social Science
 types: Lesson Plans
 audiences: Classroom Teachers
-grades: 4
+grades: "4"
 _tags: computer science, data visualization, native americans, virginia native tribes, virginia studies
 standards: 4.CS.DA.12, 4.VS.VP.2
 links:

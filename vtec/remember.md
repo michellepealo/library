@@ -3,7 +3,7 @@ title: "Remember - Indigenous Perspective on Environmentalism"
 subjects: Computer Science, English, History & Social Science
 types: Lesson Plans
 audiences: Classroom Teachers
-grades: 8
+grades: "8"
 _tags: environmentalism, figurative language, human impact, indigenous, native American, programming, twine
 standards: 8.CS.AP.1, 8.EN.COM.1, 8.EN.RD.5, 8.EN.RE.9, 8.WG.ING.1, 8.WG.RE.2
 links:

@@ -4,7 +4,7 @@ _author: Valerie Clark
 subjects: Computer Science, History & Social Science
 types: Lesson Plans
 audiences: Classroom Teachers
-grades: 5
+grades: "5"
 _tags: computer science, indigenous, native americans, perspectives, treaty, virginia tribes
 standards: 5.CS.AP.1, 5.CS.DA.11, 5.USI.EA.2
 links:

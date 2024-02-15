@@ -3,7 +3,7 @@ title: Go Show the World - Indigenous Heroes
 subjects: Computer Science, English, History & Social Science
 types: Lesson Plans
 audiences: Classroom Teachers
-grades: 5
+grades: "5"
 _tags: characteristics, computer science, debug, indigenous, native American, nonfiction, programming, twine, writing
 standards: 5.CS.AP.2, 5.EN.RD.5, 5.EN.WR.7, 5.USI.GA.1
 links:

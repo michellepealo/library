@@ -3,7 +3,7 @@ title: The Water Walker
 subjects: Computer Science, History & Social Science
 types: Lesson Plans
 audiences: Classroom Teachers
-grades: 7
+grades: "7"
 _tags: computer science, environmentalism, impacts of computing, indigenous, native American, technology, water conservation, water protection, watershed
 standards: 7.CS.IC.11, 7.EN.COM.1, 7.CVE.ACG.1, 7.CVE.ACG.3, 7.CVE.ACG.4, MS.SC.LS.11
 links:

@@ -1,7 +1,7 @@
 ---
 title: Patterns in Storytelling
 authors: Valerie Fawley
-grades: 1
+grades: "1"
 subjects: Computer Science, English
 standards: 1.CS.AP.2, 1.EN.OL.1
 types: Lesson Plan

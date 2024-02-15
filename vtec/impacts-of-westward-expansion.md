@@ -4,7 +4,7 @@ _author: Autumn Fortune-Deuber
 subjects: Computer Science, History & Social Science
 types: Lesson Plans
 audiences: Classroom Teachers
-grades: 6
+grades: "6"
 _tags: data visualization, indigenous, perspective, native americans, westward expansion
 standards: 6.CS.DA.8, 6.CS.DA.9, 6.USII.WP.1
 links:

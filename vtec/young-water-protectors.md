@@ -3,7 +3,7 @@ title: Young Water Protectors
 subjects: Computer Science, English, History & Social Science
 types: Lesson Plans
 audiences: Classroom Teachers
-grades: 6
+grades: "6"
 _tags: dakota access pipeline, environmentalism, indigenous, native American, programming, standing rock, twine
 standards: 6.CS.AP.1, 6.USII.WP.1, 6.EN.RD.6, 6.EN.WR.7
 links:

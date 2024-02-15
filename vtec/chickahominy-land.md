@@ -4,7 +4,7 @@ _author: Valerie Clark
 subjects: Computer Science, History & Social Science
 types: Lesson Plans
 audiences: Classroom Teachers
-grades: 4
+grades: "4"
 _tags: computer science, figurative language, flowchart, fry bread, indigenous, metaphor, native american, simile, virginia studies
 standards: 4.CS.AP.4, 4.CS.AP.6, 4.VS.SK.0, 4.VS.VP.2
 links:

@@ -1,7 +1,7 @@
 ---
 title: Storytelling with Algorithms
 authors: Valerie Fawley
-grades: 1
+grades: "1"
 subjects: Computer Science, English
 standards: 1.CS.AP.5, 1.EN.RD.9
 types: Lesson Plan

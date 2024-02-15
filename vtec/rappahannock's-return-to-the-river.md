@@ -4,7 +4,7 @@ _author: Autumn Fortune-Deuber
 subjects: Computer Science, Life Sciences
 types: Lesson Plans
 audiences: Classroom Teachers
-grades: 7
+grades: "7"
 _tags: computer science, rappahannock, indigenous, native american, virginia studies
 standards: 7.CS.IC.11, MS.SC.LS.11
 links:
