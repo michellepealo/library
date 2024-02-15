@@ -5,11 +5,12 @@ grades: 4-12
 types: Unit of Study, Lesson Plan, Curricular Resource, Tutorials
 tags: coding, storytelling, writing, computer science, twine
 contents:
+    - cs-for-social-studies
     - ./twine-trail-guide.md
+    - ./wida-crosswalk.md
     - ./twine-chapbook-tip-sheet.md
     - ./flipbook.md
     - ./twine-publish-directions.md
-    - cs-for-social-studies
 ---
 
 ## Overview
