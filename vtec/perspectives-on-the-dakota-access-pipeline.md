@@ -2,7 +2,7 @@
 title: Perspectives on the Dakota Access Pipeline
 _author: Autumn Fortune-Deuber
 subjects: Computer Science, History & Social Science
-types: Lesson Plans
+types: Lesson Plan
 audiences: Classroom Teachers
 grades: "7"
 _tags: arguments, dakota access pipeline, decision-making model, indigenous, national issues, native americans, primary sources, programming, twine

@@ -2,7 +2,7 @@
 title: Treaties 
 _author: Valerie Clark
 subjects: Computer Science, History & Social Science
-types: Lesson Plans
+types: Lesson Plan
 audiences: Classroom Teachers
 grades: "5"
 _tags: computer science, indigenous, native americans, perspectives, treaty, virginia tribes

@@ -2,7 +2,7 @@
 title: Rappahannock's Return to the River
 _author: Autumn Fortune-Deuber
 subjects: Computer Science, Life Sciences
-types: Lesson Plans
+types: Lesson Plan
 audiences: Classroom Teachers
 grades: "7"
 _tags: computer science, rappahannock, indigenous, native american, virginia studies

@@ -2,7 +2,7 @@
 title: Chickahominy Land Acquisition
 _author: Valerie Clark
 subjects: Computer Science, History & Social Science
-types: Lesson Plans
+types: Lesson Plan
 audiences: Classroom Teachers
 grades: "4"
 _tags: computer science, figurative language, flowchart, fry bread, indigenous, metaphor, native american, simile, virginia studies

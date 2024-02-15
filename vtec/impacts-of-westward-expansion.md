@@ -2,7 +2,7 @@
 title: Impacts of Westward Expansion
 _author: Autumn Fortune-Deuber
 subjects: Computer Science, History & Social Science
-types: Lesson Plans
+types: Lesson Plan
 audiences: Classroom Teachers
 grades: "6"
 _tags: data visualization, indigenous, perspective, native americans, westward expansion

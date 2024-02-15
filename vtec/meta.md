@@ -1,7 +1,7 @@
 ---
 title: Indigenous Representation & Presence in CS
 subjects: Computer Science, English, Science, History & Social Science
-types: Lesson Plans
+types: Lesson Plan
 grades: 4-8
 tags: tribal education, VTEC
 contents:
