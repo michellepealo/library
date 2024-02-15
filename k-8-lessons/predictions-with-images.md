@@ -3,7 +3,7 @@ title: Predictions with Images
 authors: Valerie Fawley
 grades: 1
 subjects: Computer Science, English
-standards: 1.CS.AP.2, 1.EN.OL.1
+standards: 1.CS.AP.5, 1.EN.RD.9
 types: Lesson Plan
 _tags: STEAM, unplugged, story elements, questioning
 links:
@@ -22,5 +22,3 @@ Students will use decomposition strategies to predict what will happen in a stor
 * Use the illustrations in a story to make predictions
 * Use the illustration to answer the 5W and 1H questions about a text
 * Read to determine if my prediction was accurate
-
-
