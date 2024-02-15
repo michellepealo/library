@@ -1,6 +1,6 @@
 ---
 title: Cause and Effect with Conditionals
-authors: Allison Kappler, Tara Lockhart, Deborah Diner, and Sarah Weir
+authors: Allison Kappler, Tara Lockhart, Deborah Diner, Sarah Weir
 grades: 5
 subjects: Computer Science, Science
 standards: 5.CS.AP.2, 5.EN.RD.5
