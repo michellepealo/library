@@ -1,6 +1,6 @@
 ---
 title: Chickahominy Land Acquisition
-+author: Valerie Clark
+_author: Valerie Clark
 subjects: Computer Science, History & Social Science
 types: Lesson Plans
 audiences: Classroom Teachers

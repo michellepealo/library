@@ -1,6 +1,6 @@
 ---
 title: Rappahannock's Return to the River
-+author: Autumn Fortune-Deuber
+_author: Autumn Fortune-Deuber
 subjects: Computer Science, Life Sciences
 types: Lesson Plans
 audiences: Classroom Teachers

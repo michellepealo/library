@@ -1,6 +1,6 @@
 ---
 title: Impacts of Westward Expansion
-+author: Autumn Fortune-Deuber
+_author: Autumn Fortune-Deuber
 subjects: Computer Science, History & Social Science
 types: Lesson Plans
 audiences: Classroom Teachers
