@@ -2,7 +2,6 @@
 title: Exploring AI Bias with Teachable Machine
 authors: Amber Rauls-Drayer, Jon Stapleton
 grades: 9-12
-standards: HS.CSP.DA.3, HS.CSP.DA.4, HS.CSF.DA.3
 subjects: Computer Science
 types: Lesson Plan
 _tags: bias
