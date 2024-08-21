@@ -3,7 +3,7 @@ title: Origami Algorithms (Grade 6)
 authors: Jess Newsome
 grades: "6"
 subjects: Computer Science
-standards: 6.CS.AP.1
+standards: 6.CS24.AP.1
 image: origami.jpg
 types: Lesson Plan
 _tags: STEAM, crafts
