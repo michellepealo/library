@@ -3,6 +3,7 @@ title: Data Cycles
 authors: Amber Rauls-Drayer, Jess Newsome, Jon Stapleton
 grades: "5"
 subjects: Computer Science, Mathematics
+standards: 5.CS24.DA.2, 5.MT.PS.1
 types: Lesson Plan
 links:
     drive: https://docs.google.com/document/d/1gWNQsl32ccTP-OVCgjn7FKSDlZAmOd7Xg0cuNxRXXXI/edit
