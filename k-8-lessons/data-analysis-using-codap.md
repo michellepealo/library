@@ -3,6 +3,7 @@ title: Data Analysis Using CODAP
 authors: Amber Rauls-Drayer, Jess Newsome, Jon Stapleton
 grades: "8"
 subjects: Computer Science, Mathematics
+standards: 8.CS24.DA.2, 8.MT.PS.3
 types: Lesson Plan
 links:
     drive: https://docs.google.com/document/d/1djeKY--17uh1L_V0wZLwUjq9uQoZXE1VbYNhyQeNuL0/edit
