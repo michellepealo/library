@@ -3,7 +3,7 @@ title: Origami Algorithms (Grades 3-5)
 authors: Jess Newsome
 grades: 3-5
 subjects: Computer Science
-standards: 3.CS.AP.1, 4.CS.AP.1, 5.CS.AP.1
+standards:  3.CS24.AP.2, 4.CS24.AP.2, 5.CS24.AP.2
 types: Lesson Plan
 image: origami.jpg
 _tags: STEAM, crafts
