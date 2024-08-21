@@ -3,7 +3,7 @@ title: Playground Slide Redesign
 authors: Allison Kappler, Jon Stapleton
 grades: "5"
 subjects: Computer Science, Science
-standards: 5.SC.SE.1, 5.SC.FM.3
+standards: 5.CS24.DA.2, 5.SC.SE.1, 5.SC.FM.3
 types: Lesson Plan
 links:
     drive: https://docs.google.com/document/d/1UEPKZfE4wXoN1G2IZZ0Kr48kECJfRXfPi_zMYg0Hc3o
