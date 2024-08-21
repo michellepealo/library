@@ -3,7 +3,7 @@ title: Animal Classification
 authors: Allison Kappler, Jon Stapleton
 grades: "1"
 subjects: Computer Science, Science
-standards: 1.CS.AP.1, 1.SC.LP.5
+standards: 1.CS24.AP.1, 1.SC.LP.5
 types: Lesson Plan
 links:
     drive: https://docs.google.com/document/d/1jdwdaPWX2HqYCAL2-fHWD9kObozkTSUFcv9wujhdMsA/edit
