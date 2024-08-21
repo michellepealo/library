@@ -3,7 +3,7 @@ title: Patterns in Storytelling
 authors: Valerie Fawley
 grades: "1"
 subjects: Computer Science, English
-standards: 1.CS.AP.2, 1.EN.OL.1
+standards: 1.CS24.AP.2, 1.EN.OL.2
 types: Lesson Plan
 _tags: STEAM, unplugged, story elements, pattern recognition
 links:
