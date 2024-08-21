@@ -3,7 +3,7 @@ title: Plant Life Cycle Algorithms
 authors: Allison Kappler, Jon Stapleton
 grades: "2"
 subjects: Computer Science, Science
-standards: 2.CS.AP.1, 2.SC.LP.4
+standards: 2.CS24.AP.1, 2.SC.LP.4
 types: Lesson Plan
 links:
     drive: https://docs.google.com/document/d/1IS6qImLH5RM3GlpH4eA_N844Y7L0Yrly2-OF8lKpzu4
