@@ -1,9 +1,9 @@
 ---
 title: Retelling with a Program
 authors: Valerie Fawley
-grades: "1"
+grades: "2"
 subjects: Computer Science, English
-standards: 1.CS.AP.2, 1.EN.RD.9
+standards: 2.CS24.AP.2, 2.EN.RD.7
 types: Lesson Plan
 _tags: STEAM, story elements, retell, story elements
 links:
