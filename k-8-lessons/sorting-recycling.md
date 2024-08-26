@@ -3,7 +3,7 @@ title: Sorting Recyclables
 authors: Allison Kappler, Jon Stapleton
 grades: "K"
 subjects: Computer Science, Science
-standards: K.CS.AP.1, K.SC.MA.3, K.SC.ER.11
+standards: K.CS24.AP.1, K.SC.MA.3, K.SC.ER.11
 types: Lesson Plan
 links:
     drive: https://docs.google.com/document/d/1Kg73CEE3G0U0UYsT_g0Pro3Pen6ewzcCa0ViqoY8uDc/edit?usp=drive_web?view=open
