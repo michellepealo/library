@@ -3,7 +3,7 @@ title: Tech Survey & Analysis
 authors: Valerie Fawley
 grades: "4"
 subjects: Computer Science, Mathematics
-standards: 4.MT.PS.1
+standards: 4.CS24.DA.2, 4.CS24.IC.1, 4.MT23.PS.1
 types: Lesson Plan
 links:
     drive: https://docs.google.com/document/d/1tZagXGW4NWxFxhT7KjdrjRXHbxARBMYn5PYBixOvTII/edit
