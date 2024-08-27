@@ -3,7 +3,7 @@ title: Weather Dataset
 authors: Perry Shank, Kristen Franklin, Allison Kappler
 grades: "4"
 subjects: Computer Science, Science
-standards: 4.CS.AP.1, 4.CS.AP.5, 4.CS.DA.12, 4.SC.SE.1, 4.SC.ES.4, 4.SC.ES.6
+standards: 4.CS24.DA.2, 4.SC.SE.1, 4.SC.ES.4, 4.SC.ES.6
 types: Lesson Plan
 _tags: STEAM, weather, data visualization
 links:
