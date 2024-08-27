@@ -3,7 +3,7 @@ title: Storytelling with Algorithms
 authors: Valerie Fawley
 grades: "1"
 subjects: Computer Science, English
-standards: 1.CS.AP.5, 1.EN.RD.9
+standards: 1.CS24.AP.2, 1.EN.RD.9
 types: Lesson Plan
 _tags: STEAM, unplugged, story elements, retell, algorithms
 links:
