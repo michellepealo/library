@@ -2,8 +2,8 @@
 title: Networks & the Internet Pocket Guide
 subjects: Computer Science, Networks & the Internet
 links:
-    drive: https://drive.google.com/file/d/13Ffwr89uOb0HQ2EPWtwhlYmqQJdNMApb/view?usp=drive_link
-    pdf: https://drive.google.com/file/d/13Ffwr89uOb0HQ2EPWtwhlYmqQJdNMApb/view?usp=drive_link
+    drive: https://drive.google.com/file/d/1WVNJz56Cwm-NsiooaMlZ7pnpetrRA3OV/view?usp=sharing
+    pdf: https://drive.google.com/file/d/1WVNJz56Cwm-NsiooaMlZ7pnpetrRA3OV/view?usp=sharing
 standards: K-12.CS.NI
 ---
 
