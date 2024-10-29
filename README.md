@@ -110,6 +110,8 @@ To contribute to the library, follow the steps below:
 3. Optional: run the `audit.js` program to make sure your contributions follow the correct formatting conventions
 4. After you have finished making your contributions, make a pull request to trigger review. Once your branch is merged into the main branch, your contributions will be deployed to the main site.
 
+To find the URL for the resource you want to make, use the resource's directory location in the repository, remove the `.md` file extension, and append it to the Library URL `https://curriculum.codevirginia.org/library/browse`. For example, if you added a  `new-lesson.md` file to the `k8-lessons` folder, the URL for that lesson plan would be `https://curriculum.codevirginia.org/library/browse/k8-lessons/new-lesson`.
+
 ### Errors & Requirements
 
 If the auditor script finds errors in the library, it will throw an error:
