@@ -12,7 +12,7 @@ contents:
     - ./pocket-guides
     - ./vertical-articulation
     - ./crosswalks
-    - ./vocab-cards
+    - ./vocab-cards.md
 ---
 
 ## Overview
